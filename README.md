@@ -1,2 +1,5 @@
 # Pima_diabetes
-## Hello
+## This is one of the project in my DS certification
+## The project is a classification problem in terms of classifying whether a person has diabetes or not
+## The Pima Indian Diabetes Dataset is a medical dataset that includes data from 768 Pima Indian women and consists of 8 predictor variables such as the number of pregnancies, glucose level, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age. The target variable indicates the presence or absence of diabetes. This dataset is extensively used in diabetes research to develop predictive models and is also a valuable resource for teaching data analysis and machine learning techniques. Handling missing values, often represented as zeros, is a crucial part of the data preprocessing step in research using this dataset.
+## The project first used Pandas and Numpy to clean and normalize data. Then, different models were built to test the performance such as KNN, Decision Tree, SVM, Logistic Regression, and Neural Network. Finally, 2 ensemble models were built to enhance the accuracy related to the task. 
